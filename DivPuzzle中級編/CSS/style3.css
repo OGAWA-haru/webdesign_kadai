@@ -1,0 +1,68 @@
+@charset "utf-8";
+
+.header-box {
+width: 400px;
+height: 100px;
+background: #ff0000;
+}
+
+.main {
+width: 400px;
+height: 250px;
+}
+
+.clearfix:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+.left-box {
+width: 150px;
+height: 250px;
+background: #00ff51;
+float: left;
+}
+
+.right-box {
+width: 250px;
+height: 250px;
+float: left;
+}
+
+.right-top-box {
+width: 150px;
+height: 150px;
+float: left;
+}
+
+.first-box {
+height: 50px;
+background: #cc00db;
+}
+
+.second-box {
+height: 100px;
+background: #0093b7;
+}
+
+.third-box {
+width: 100px;
+height: 150px;
+background: #ff9e6b;
+float: left;
+}
+
+.fourth-box {
+width: 250px;
+height: 100px;
+background: #8c2727;
+float: left;
+}
+
+.footer-box {
+width: 400px;
+height: 100px;
+background: #ffF700;
+float: left;
+}
